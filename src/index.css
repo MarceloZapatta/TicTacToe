@@ -83,6 +83,11 @@ body, html, #root {
   padding: 10px;
 }
 
+.game-info ol li button:hover {
+  border-bottom: 5px solid white;
+  cursor: pointer;
+}
+
 .game-info ol li button:focus {
   outline: none;
   border-bottom: 5px solid white;
